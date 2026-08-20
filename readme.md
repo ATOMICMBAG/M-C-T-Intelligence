@@ -6,7 +6,6 @@ Hardwareumgebungen.
 Sie dient als **Portfolio‑Projekt**, um moderne Test-&Traceability‑Ketten und Labor‑Workflows realistisch, aber vollständig synthetisch darzustellen und einige Systeme wie das HF Modul nur in Verbindung mit echter Hardware funktionsfähig.
 
 👉 Live-Demo: https://mcti.maazi.de  
-👉 Portfolio: https://maazi.de
 
 ---
 
@@ -100,8 +99,7 @@ Append‑only‑Audit mit Live‑WebSocket‑Feed und vollständiger Transparenz
 
 ## 🌐 Links
 
-- **Live-Demo:** https://mcti.maazi.de
-- **Portfolio:** https://maazi.de
+👉 Live-Demo: https://mcti.maazi.de  
 
 ---
 
