@@ -93,21 +93,8 @@ Append‑only‑Audit mit Live‑WebSocket‑Feed und vollständiger Transparenz
 
 ## 🎯 Ziel dieses Repositories
 
-Dieses Repository dient ausschließlich als **Showcase**:
-
-- Präsentation der Webapplikation
-- Screenshots, Bilder und Beschreibungen
-- Link zur Live‑Demo
-- Keine Quellcodes
-- Keine Infrastruktur‑ oder Architekturdetails
-- Keine Anleitung zur Reproduktion
-
----
-
-## 📸 Screenshots
-
-_(Hier kannst du später Bilder einfügen, z. B. Dashboard, Telemetrie, HF‑Labor,
-Traceability usw.)_
+- Präsentation der Webapplikation als realer **Showcase**
+- Screenshots, Bilder und Beschreibungen (- Link zur Live‑Demo)
 
 ---
 
