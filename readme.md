@@ -3,7 +3,7 @@
 **MCTI** ist eine interaktive Webanwendung zur Simulation, Analyse und
 Visualisierung von Testabläufen in sicherheitskritischen Software‑ und
 Hardwareumgebungen.  
-Sie dient als **Portfolio‑Projekt**, um moderne Test-&Traceability‑Ketten und Labor‑Workflows realistisch, aber vollständig synthetisch darzustellen.
+Sie dient als **Portfolio‑Projekt**, um moderne Test-&Traceability‑Ketten und Labor‑Workflows realistisch, aber vollständig synthetisch darzustellen und einige Systeme wie das HF Modul nur in Verbindung mit echter Hardware funktionsfähig.
 
 👉 Live-Demo: https://mcti.maazi.de  
 👉 Portfolio: https://maazi.de
@@ -19,9 +19,6 @@ transparent, nachvollziehbar und strukturiert dargestellt werden können:
 - Labor‑Assets → Revisionen → Messwerte → QA → NCR
 - Vollständige Traceability und Auditierbarkeit
 - Regelbasierte Analyse ohne Blackbox‑Modelle
-
-Alle Daten der Demo sind **synthetisch**, **deterministisch erzeugt** und
-**nicht mit realen Systemen verbunden**.
 
 ---
 
@@ -51,7 +48,7 @@ Konfigurationsbezug und reproduzierbaren Ergebnissen.
 
 ### **Telemetrie**
 
-Live‑ und Playback‑Ansicht synthetischer Sensordaten:
+Live‑ und Playback‑Ansicht synthetischer Sensordaten (nur in Verbindung mit echter Hardware funktionsfähig):
 Temperatur, Druck, Vibration, Latenzen, GNSS‑Werte, Versorgungsspannung usw.
 
 ### **Fault‑Injection**
@@ -81,7 +78,7 @@ Synthetische Geräte, Revisionen, QA‑Abnahmen und NCR‑Prozesse.
 ### **HF‑Labor**
 
 R&S‑orientierte HF‑Simulatoren (Spektrumanalysator, VNA) mit sicherer
-Whitelist‑Konsole und synthetischen Sweeps.
+Whitelist‑Konsole und synthetischen Sweeps (nur in Verbindung mit echter Hardware funktionsfähig):
 
 ### **Traceability**
 
@@ -91,23 +88,6 @@ Analyse.
 ### **Audit‑Log**
 
 Append‑only‑Audit mit Live‑WebSocket‑Feed und vollständiger Transparenz.
-
----
-
-## 🔒 Sicherheit & Grenzen der Demo
-
-- **Keine reale Hardwareanbindung**  
-  Alle HF‑Daten, Messwerte und Telemetrien sind synthetisch.
-
-- **Kein PyVISA‑Schreibzugriff**  
-  Die Demo zeigt nur sichere, synthetische Lesemodi.
-
-- **Keine Betriebsanleitung**  
-  Diese README beschreibt ausschließlich die Fähigkeiten der Demo, nicht die
-  technische Umsetzung.
-
-- **Keine sensiblen Daten**  
-  Es existieren keine echten Fahrzeug‑, Labor‑ oder Unternehmensdaten.
 
 ---
 
