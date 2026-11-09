@@ -105,6 +105,5 @@ Append‑only‑Audit mit Live‑WebSocket‑Feed und vollständiger Transparenz
 
 ## 📄 Lizenz
 
-Dieses Projekt ist ein privates Portfolio‑Demo‑Projekt.  
 Die Inhalte dürfen nicht für produktive Systeme oder reale Testumgebungen
 verwendet werden.
